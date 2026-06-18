@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# asdf download: download and verify the binary for the current platform
 set -euo pipefail
 
 repo="${SAFESELECT_REPO:-antonillos/safeselect}"

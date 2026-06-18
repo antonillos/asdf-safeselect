@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# asdf list-all: fetch all versions from GitHub Releases
 set -euo pipefail
 
 repo="${SAFESELECT_REPO:-antonillos/safeselect}"
