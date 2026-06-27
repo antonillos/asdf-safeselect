@@ -1,6 +1,6 @@
 # asdf-safeselect
 
-asdf plugin for [safeselect](https://github.com/antonillos/safeselect) — MCP SQL Fail-Closed for AI Agents.
+asdf plugin for [safeselect](https://github.com/antonillos/safeselect) — fail-closed read-only database access for AI agents over MCP.
 
 ## Install
 
